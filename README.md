@@ -23,5 +23,6 @@ Aquí un ejemplo de la imagen generada por el código:
 
 
 ## Fractal de Arbol
-Este fractal, es muy descriptivo por su nombre, basicamente
+Este fractal, es muy descriptivo por su nombre, basicamente.
+
 <img src="fractal_de_arbol/arbol.png" width="50%" height="50%"/>
